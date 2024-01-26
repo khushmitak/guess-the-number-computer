@@ -11,7 +11,7 @@ def guess(x):
         elif guess < random_number:
             print("Sorry, try again! Too low!")
             
-    print (f"Yay, great job! You've guess the number {random_number} correctly.")
+    print (f"Yay, great job! You've guessed the number {random_number} correctly.")
         
 guess(20)
     
